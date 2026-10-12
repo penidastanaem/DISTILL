@@ -1,4 +1,4 @@
 # DISTILL
 
 ## Data
-Folder Data
+Data Folder
